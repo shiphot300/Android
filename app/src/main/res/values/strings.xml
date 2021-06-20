@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MainPage</string>
+
+    <array name="categories">
+        <item>전체</item>
+        <item>디지털/가전</item>
+        <item>여성의류</item>
+        <item>남성의류</item>
+        <item>패션잡화</item>
+        <item>뷰티미용</item>
+        <item>취미애완</item>
+        <item>스포츠레저</item>
+        <item>생활문구/가구식품</item>
+    </array>
+</resources>

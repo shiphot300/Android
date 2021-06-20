@@ -1,0 +1,7 @@
+<resources>
+    <!-- Rating Bar 스타일 -->
+    <style name="ratingBar" parent="Widget.AppCompat.RatingBar.Small">
+        <item name="colorControlNormal">@color/teal_200</item>
+    </style>
+
+</resources>
